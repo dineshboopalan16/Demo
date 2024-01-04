@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>BDDCucumber</groupId>
   <artifactId>BDDCucumber</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.3-SNAPSHOT</version>
   <dependencies>
 	  <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
 <dependency>
